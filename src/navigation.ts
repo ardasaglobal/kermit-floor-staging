@@ -1,7 +1,7 @@
 
 import {createNavigation} from 'next-intl/navigation';
 import type {Pathnames} from 'next-intl/routing';
-import {locales, defaultLocale} from './i18n/locales';
+import {locales, defaultLocale, localeDetails} from './i18n/locales';
 
 export {locales, defaultLocale};
 
@@ -133,12 +133,15 @@ const existingPathnames = {
 export const pathnames = Object.fromEntries(
   Object.entries(existingPathnames).map(([key, route]) => [
     key,
-    {...route, bg: route.en, sr: route.en, ar: route.en},
+    {...Object.fromEntries(locales.map((locale) => [locale, route.en])), ...route},
   ]),
 ) as {[Key in keyof typeof existingPathnames]: Record<(typeof locales)[number], string>} satisfies Pathnames<typeof locales>;
 
 // Only the default language has no locale prefix.
-export const localePrefix = 'as-needed' as const;
+export const localePrefix = {
+  mode: 'as-needed',
+  prefixes: {uk: localeDetails.uk.urlPrefix as `/${string}`},
+} as const;
 
 const navigation = (() => {
   try {

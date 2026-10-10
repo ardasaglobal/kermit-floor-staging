@@ -193,7 +193,8 @@
       "trPdf": "PDF İndir · Türkçe",
       "bgPdf": "Bulgarca PDF",
       "srPdf": "Sırpça PDF",
-      "arPdf": "Arapça PDF"
+      "arPdf": "Arapça PDF",
+      "ukPdf": "Ukraynaca PDF"
     },
     "documents": {
       "title": "Projeniz için belge talep edin",
@@ -221,7 +222,8 @@
       "ro": "Romence",
       "sr": "Sırpça",
       "bg": "Bulgarca",
-      "ar": "Arapça"
+      "ar": "Arapça",
+      "uk": "Ukraynaca"
     }
   },
   "AboutPage": {

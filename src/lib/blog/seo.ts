@@ -1,5 +1,6 @@
 import type {BlogLocale, BlogPost, BlogPostPair} from './types';
 import {getBlogAuthorProfileByName} from './authors';
+import {getLocaleUrlPrefix} from '@/i18n/locales';
 
 const DEFAULT_SITE_URL = 'https://kermitfloor.com';
 
@@ -21,13 +22,8 @@ export function getSiteUrl(): string {
 
 export function toLocalePath(locale: BlogLocale, pathname: string): string {
   const normalizedPath = ensureLeadingSlash(pathname);
-  if (locale === 'en') {
-    return normalizedPath;
-  }
-  if (normalizedPath === '/') {
-    return `/${locale}`;
-  }
-  return `/${locale}${normalizedPath}`;
+  const prefix = getLocaleUrlPrefix(locale);
+  return normalizedPath === '/' ? prefix || '/' : `${prefix}${normalizedPath}`;
 }
 
 export function toAbsoluteUrl(locale: BlogLocale, pathname: string): string {

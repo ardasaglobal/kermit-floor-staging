@@ -37,6 +37,7 @@ const languages = [
     { code: 'bg', name: localeDetails.bg.name, flag: <span aria-hidden="true" className="text-2xl">🇧🇬</span> },
     { code: 'sr', name: localeDetails.sr.name, flag: <span aria-hidden="true" className="text-2xl">🇷🇸</span> },
     { code: 'ar', name: localeDetails.ar.name, flag: <Globe aria-hidden="true" className="!h-6 !w-6" /> },
+    { code: 'uk', name: localeDetails.uk.name, flag: <span aria-hidden="true" className="text-2xl">🇺🇦</span> },
 ];
 
 type LanguageSwitcherProps = {

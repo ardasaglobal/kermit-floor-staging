@@ -15,6 +15,7 @@ This creates one file per supported language:
 - `content/blog/topics/<topic-id>/bg.mdx`
 - `content/blog/topics/<topic-id>/sr.mdx`
 - `content/blog/topics/<topic-id>/ar.mdx`
+- `content/blog/topics/<topic-id>/uk.mdx`
 
 The scaffolder uses the default author from `content/blog/authors.json` (falls back to `Kermit Floor Team` if the registry is missing or invalid).
 
@@ -37,7 +38,7 @@ An individual's localized `jobTitle` appears below their name (unless a `subtitl
 
 - Scaffolds contain placeholder metadata and body text. Replace them with the article's
   actual content, applicable evidence in `sourceUrls`, and appropriate media before review.
-- Keep all five locales aligned and validator rules intact. For targeted edits, update all
+- Keep all supported locales aligned and validator rules intact. For targeted edits, update all
   translations when shared facts or intent change; a locale-specific correction can stay in that locale.
 - Save and validate the local draft before review. Publishing follows `AGENTS.md` and
   `docs/seo/README.md`, including authorization for commit/push and the ship-time logbook entry.
@@ -51,7 +52,8 @@ An individual's localized `jobTitle` appears below their name (unless a `subtitl
 3. Use locale-specific slugs:
    - `en.mdx` -> English slug
    - `tr.mdx` -> Turkish slug
-   - BG/SR/AR may retain the English slug; the locale prefix provides a distinct canonical URL.
+   - Ukrainian uses `/ukr` URLs and the standard `uk` locale/language code.
+   - BG/SR/AR/UK may retain the English slug; the locale prefix provides a distinct canonical URL.
 4. Use localized tags for each language. Keep corresponding tags in the same order so
    language switching can find the translated topic. Serbian uses Cyrillic.
 5. Fill all required frontmatter fields before publishing.

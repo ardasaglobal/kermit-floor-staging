@@ -1,0 +1,1231 @@
+{
+  "Metadata": {
+    "title": "Kermit Floor | SPC-підлога, стінові панелі та плінтуси",
+    "description": "Високоякісні SPC-покриття для підлоги, стінові панелі та плінтуси для сучасних інтер’єрів. Один бренд — цілісна система."
+  },
+  "Header": {
+    "navHome": "ГОЛОВНА",
+    "navFloors": "ПІДЛОГА",
+    "navWalls": "СТІНИ",
+    "navSkirtings": "ПЛІНТУСИ",
+    "navDownload": "МАТЕРІАЛИ",
+    "navAbout": "ПРО НАС",
+    "navContact": "КОНТАКТИ",
+    "heroTitleSpc": "КОЛЕКЦІЯ СТІНОВИХ SPC-ПАНЕЛЕЙ",
+    "heroTitle3d": "КОЛЕКЦІЯ СТІНОВИХ 3D SPC-ПАНЕЛЕЙ",
+    "heroTitle3dModelA": "РИФЛЕНІ SPC-ПАНЕЛІ: MODEL A",
+    "heroTitle3dModelB": "РИФЛЕНІ SPC-ПАНЕЛІ: MODEL B",
+    "collectionsTitle": "Колекції стінових SPC-панелей",
+    "heroTitleSpcParquetNaturalCollection": "ШВИДКЕ ВІДВАНТАЖЕННЯ: NATURAL",
+    "heroTitleSpcParquetStoneCollection": "ШВИДКЕ ВІДВАНТАЖЕННЯ: STONE",
+    "heroTitleFullNaturalCollection": "NATURAL: ПОВНИЙ АСОРТИМЕНТ",
+    "heroTitleSkirtingAlpha140mm": "ПЛІНТУС ALPHA 140 ММ",
+    "heroTitleSkirtingBerlin100mm": "ПЛІНТУС BERLIN 100 ММ",
+    "heroTitleSkirtingElite100mm": "ПЛІНТУС ELITE 100 ММ",
+    "heroTitleSkirtingModerna100mm": "ПЛІНТУС MODERNA 100 ММ",
+    "heroTitleSkirtingOptima60mm": "ПЛІНТУС OPTIMA 60 ММ",
+    "heroTitleSkirtingOptima90mm": "ПЛІНТУС OPTIMA 90 ММ",
+    "heroTitleSkirtingSolid80mm": "ПЛІНТУС SOLID 80 ММ",
+    "heroTitleSkirtingXLine100mm": "ПЛІНТУС X-LINE 100 ММ",
+    "heroTitleFlooringPremierSeries": "ШВИДКЕ ВІДВАНТАЖЕННЯ: PREMIUM",
+    "heroTitleFlooringNaturalSeries": "ШВИДКЕ ВІДВАНТАЖЕННЯ: NATURAL",
+    "heroH1SpcFlooringEliteCollection": "Колекція SPC-підлоги Elite",
+    "heroH1SpcFlooringEleganceCollection": "Колекція SPC-підлоги Elegance",
+    "heroH1SpcFlooringSkyCollection": "Колекція SPC-підлоги Sky",
+    "heroH1SpcFlooringMosaicCollection": "Колекція SPC-підлоги Mosaic",
+    "heroH1SpcFlooringTravertineCollection": "Колекція SPC-підлоги Travertine",
+    "heroH1SpcParquetNaturalCollection": "Колекція SPC-підлоги Natural",
+    "heroH1SpcParquetStoneCollection": "Колекція SPC-підлоги Stone",
+    "heroH1FullNaturalCollection": "Колекція SPC-підлоги Full Natural"
+  },
+  "HomePage": {
+    "seo": {
+      "title": "Виробник SPC-підлоги та стінових панелей у Туреччині | Kermit Floor",
+      "description": "Kermit Floor виробляє SPC-підлогу, стінові панелі та плінтуси в Туреччині. Сукупна річна потужність підлоги й панелей — 8 млн м². Оптові та OEM-запити."
+    },
+    "heroTitle": "SPC-ПІДЛОГА, SPC-СТІНИ ТА SPC-ПЛІНТУСИ",
+    "heroSubtitle": "Комплексна система оздоблення інтер’єру з SPC від одного бренду: довговічні матеріали та популярні дизайни.",
+    "heroStarterPacksTitle": "Розпочніть проєкт із наших добірок матеріалів:",
+    "productLinesTitle": "Системний підхід до оздоблення інтер’єру з SPC",
+    "productLinesSubtitle": "Ми виробляємо підлогові покриття, плінтуси та стінові панелі, які поєднуються в цілісне оздоблення.",
+    "flooringTitle": "SPC-підлога",
+    "flooringDescription": "Наші підлогові покриття з жорсткою основою поєднують міцність і стиль та пропонують широкий вибір дизайнів для будь-якого інтер’єру.",
+    "flooringBenefits": {
+      "b1": "100% водостійкість і висока довговічність",
+      "b2": "Швидке та чисте укладання завдяки замковій системі",
+      "b3": "Широкий вибір реалістичних декорів дерева та каменю"
+    },
+    "viewFlooring": "Переглянути підлогові покриття",
+    "skirtingTitle": "SPC-плінтуси",
+    "skirtingDescription": "Завершіть проєкт гармонійно підібраними плінтусами з гнучкими краями для акуратного примикання стіни до підлоги.",
+    "skirtingBenefits": {
+      "b1": "Придатні до фарбування та стійкі до ударів",
+      "b2": "Гнучкі краї для нерівних стін",
+      "b3": "Гармонійне поєднання кольорів із підлогою та панелями"
+    },
+    "viewSkirting": "Переглянути плінтуси",
+    "wallsTitle": "Стінові SPC-панелі",
+    "wallsDescription": "Оновіть інтер’єр нашими високоякісними SPC-панелями: простий монтаж, фактури каменю й дерева та об’ємні 3D-поверхні.",
+    "wallsBenefits": {
+      "b1": "Повністю водостійке рішення без затирання швів",
+      "b2": "Монтаж поверх наявної плитки за лічені години",
+      "b3": "Великоформатні дизайни з цілісним виглядом"
+    },
+    "viewWalls": "Переглянути стінові панелі",
+    "whyKermitTitle": "Чому Kermit Floor?",
+    "whyKermit": {
+      "manufacturer": {
+        "title": "Виробництво в Туреччині",
+        "text": "Оптове постачання SPC-підлоги та OEM-виробництво під власною маркою для дистриб’юторів і брендів. Характеристики, пакування й графік замовлення підтверджуються в пропозиції."
+      },
+      "design": {
+        "title": "Контроль дизайну",
+        "text": "Власне виготовлення пресформ дає змогу точно контролювати деталі та швидко вдосконалювати продукцію."
+      },
+      "system": {
+        "title": "Системний підхід",
+        "text": "Підлогові покриття, плінтуси та стінові панелі створені для цілісного оздоблення."
+      }
+    },
+    "viewAboutUs": "Дізнатися більше про нас",
+    "blogSectionTitle": "Корисна інформація",
+    "comingSoon": "Незабаром…",
+    "resourcesTitle": "Плануйте проєкт із повним комплектом документації",
+    "resourcesCardCatalogue": "Каталоги",
+    "resourcesCardTds": "Технічні паспорти",
+    "resourcesCardInstall": "Інструкції з монтажу",
+    "viewResources": "Перейти до матеріалів",
+    "instagramTitle": "Наші новини",
+    "instagramSubtitle": "Стежте за @kermitfloor в Instagram: ідеї для інтер’єру та новинки продукції.",
+    "followInstagram": "Підписатися в Instagram",
+    "contactCtaTitle": "Зверніться до відділу продажів щодо документації, зразків та комерційних умов.",
+    "contactCtaButton": "Зв’язатися з відділом продажів",
+    "spcWallPanelsTitle": "Стінові SPC-панелі",
+    "spc3dWallPanelsModelATitle": "3D-панелі (Model A)",
+    "spc3dWallPanelsModelBTitle": "3D-панелі (Model B)",
+    "spcParquetNaturalCollectionTitle": "Natural",
+    "spcParquetStoneCollectionTitle": "Stone",
+    "fullNaturalCollectionTitle": "Full Natural",
+    "premierSeriesTitle": "Колекції Premium",
+    "naturalSeriesTitle": "Колекції Natural",
+    "spcFlooringEleganceCollectionTitle": "Elegance",
+    "spcFlooringSkyCollectionTitle": "Sky",
+    "spcFlooringMosaicCollectionTitle": "Mosaic",
+    "spcFlooringEliteCollectionTitle": "Elite",
+    "spcFlooringTravertineCollectionTitle": "Travertine",
+    "manufacturerIntroduction": "Kermit Floor — виробник SPC-підлоги та стінових панелей у Туреччині з головним офісом і основним заводом у Чаїрові, Коджаелі. Наша сукупна річна потужність підлоги та стінових панелей становить 8 млн м². Ми працюємо в Туреччині, Молдові, Румунії та США."
+  },
+  "SpcWallPanelsPage": {
+    "seo": {
+      "title": "Kermit Floor | Стінові SPC-панелі",
+      "description": "Відкрийте нашу колекцію високоякісних стінових SPC-панелей. Водостійкі, міцні та прості в монтажі."
+    }
+  },
+  "Spc3dWallPanelsModelAPage": {
+    "seo": {
+      "title": "Kermit Floor | Стінові 3D SPC-панелі — Model A",
+      "description": "Оновіть стіни за допомогою 3D SPC-панелей Model A з виразними фактурами та сучасним дизайном."
+    }
+  },
+  "Spc3dWallPanelsModelBPage": {
+    "seo": {
+      "title": "Kermit Floor | Стінові 3D SPC-панелі — Model B",
+      "description": "Створюйте виразні акцентні стіни з 3D SPC-панелями Model B з елегантними сучасними візерунками."
+    }
+  },
+  "SpcParquetNaturalCollectionPage": {
+    "seo": {
+      "title": "Kermit Floor | Популярні декори дуба для SPC-підлоги",
+      "description": "Перегляньте популярну колекцію SPC-планок із декором натурального дуба. Міцність, водостійкість і вишуканий дизайн для будь-якого інтер’єру."
+    }
+  },
+  "SpcParquetStoneCollectionPage": {
+    "seo": {
+      "title": "Kermit Floor | Колекція SPC-підлоги з декором каменю",
+      "description": "Відкрийте колекцію SPC-підлоги з декором каменю. Міцне, водостійке покриття для сучасного елегантного інтер’єру."
+    }
+  },
+  "FullNaturalCollectionPage": {
+    "seo": {
+      "title": "Kermit Floor | Колекція Natural: понад 110 кольорів",
+      "description": "Перегляньте повний асортимент SPC-підлоги з декором натурального дерева: понад 110 варіантів кольору."
+    }
+  },
+  "ResourcesPage": {
+    "seo": {
+      "title": "Каталоги SPC, інструкції з монтажу та документація | Kermit Floor",
+      "description": "Завантажуйте каталоги підлоги, плінтусів і стінових панелей Kermit та інструкції з монтажу плінтусів. Запитуйте документи, гарантійні умови й зразки для оптових замовлень."
+    },
+    "heroTitle": "Матеріали та завантаження",
+    "heroSubtitle": "Перегляньте актуальні каталоги й матеріали з монтажу та запитайте документи для вашої специфікації.",
+    "starterPacksTitle": "Стартові добірки",
+    "downloadZip": "Завантажити ZIP",
+    "viewContents": "Переглянути склад",
+    "viewContentsTitle": "Склад добірки «{packName}»",
+    "viewContentsDescription": "Скористайтеся цим переліком, щоб обговорити потрібні документи з нашою командою. Доступні для завантаження файли наведено в бібліотеці нижче.",
+    "productLineTabs_skirting": "SPC-плінтуси",
+    "productLineTabs_flooring": "SPC-підлога",
+    "productLineTabs_wall_panels": "Стінові SPC-панелі",
+    "accordion_catalogue": "Каталоги",
+    "accordion_tds": "Технічні паспорти",
+    "accordion_installation": "Інструкції з монтажу",
+    "accordion_warranty": "Гарантія та рекламації",
+    "accordion_maintenance": "Догляд та обслуговування",
+    "accordion_cad": "CAD і креслення",
+    "accordion_textures": "Текстури (ZIP)",
+    "accordion_packaging": "Пакування та палетування",
+    "doc_type": "Тип документа",
+    "version": "Версія",
+    "last_updated": "Останнє оновлення",
+    "preview": "Попередній перегляд",
+    "download": "Завантажити",
+    "comingSoon": "Незабаром…",
+    "noResults": "За вашими критеріями документів не знайдено.",
+    "requestPack": "Запитати цю добірку",
+    "requestDocument": "Запитати цей документ",
+    "downloads": {
+      "title": "Каталоги та технічні матеріали",
+      "description": "Знайдіть коди виробів у каталогах, а потім перевірте монтажну й технічну документацію для обраного покриття. Для кожного файлу вказано мову та сферу застосування.",
+      "englishPdf": "Завантажити PDF · англійською",
+      "localizedPdf": "Завантажити PDF · англійською",
+      "roPdf": "Завантажити PDF · румунською",
+      "enPdf": "Завантажити PDF · англійською",
+      "trPdf": "Завантажити PDF · турецькою",
+      "bgPdf": "PDF болгарською",
+      "srPdf": "PDF сербською",
+      "arPdf": "PDF арабською",
+      "ukPdf": "PDF українською"
+    },
+    "documents": {
+      "title": "Запитайте документи для вашого проєкту",
+      "description": "Надішліть код виробу та вимоги вашого проєкту або ринку збуту. Наша команда перевірить, які технічні документи стосуються запропонованої продукції.",
+      "listLabel": "Документи для обговорення",
+      "types": {
+        "technical": "Технічні дані",
+        "installation": "Монтаж і гарантія",
+        "projectEvidence": "Випробування та декларації"
+      },
+      "requestTitle": "Уточніть свій запит",
+      "requestDescription": "Додайте ці відомості, щоб відповідь стосувалася саме виробу, який ви плануєте замовити:",
+      "include": {
+        "product": "Колекція, код декору, товщина, зносостійкий шар і підкладка.",
+        "market": "Країна призначення, заплановане використання та специфікація проєкту.",
+        "requirements": "Необхідні випробування, сертифікати, декларації та мова документів."
+      },
+      "manuals": "Користуйтеся наведеною нижче інструкцією з укладання підлоги. До замовлення або початку робіт запитайте інструкції для конкретного виробу й відповідні гарантійні умови.",
+      "requestAction": "Запитати документацію на продукцію"
+    },
+    "fileLanguage": "Мова файлу: {language}",
+    "languages": {
+      "en": "англійська",
+      "tr": "турецька",
+      "ro": "румунська",
+      "sr": "сербська",
+      "bg": "болгарська",
+      "ar": "арабська",
+      "uk": "українська"
+    }
+  },
+  "AboutPage": {
+    "seo": {
+      "metaTitle": "Виробник SPC у Туреччині: підлога та стінові панелі | Kermit Floor",
+      "metaDescription": "Kermit Floor виробляє SPC-підлогу та стінові панелі в Туреччині. Сукупна річна потужність — 8 млн м². Робота в чотирьох країнах, оптове й OEM-постачання."
+    },
+    "hero": {
+      "title": "Виробник SPC-підлоги та стінових панелей у Туреччині",
+      "subtitle": "Kermit Floor виробляє SPC-підлогу, стінові панелі та плінтуси для дистриб’юторів, власних торгових марок і інтер’єрних проєктів. Наші річні потужності з виробництва підлоги та стінових панелей становлять 8 млн м². Ми працюємо в Туреччині, Молдові, Румунії та США.",
+      "ctaPrimary": "Запитати зразки та пропозицію",
+      "ctaSecondary": "Переглянути каталоги"
+    },
+    "whoWeAre": {
+      "title": "Хто ми",
+      "p1": "Kermit Floor — виробник SPC у Туреччині, що виготовляє підлогові покриття, стінові панелі та плінтуси для систем оздоблення інтер’єру. Головний офіс і основний завод розташовані в Чаїрові, Коджаелі. Розроблення продукції спирається на багаторічний досвід перероблення полімерів і виготовлення пресформ, що допомагає контролювати деталі дизайну та стабільність виробництва.",
+      "p2": "Ми створюємо практичні для професіоналів вироби — стабільні, довговічні та зручні в роботі — зі стриманим сучасним виглядом для житлових і комерційних приміщень."
+    },
+    "whatWeMake": {
+      "title": "Що ми виробляємо",
+      "flooring": {
+        "title": "SPC-підлога",
+        "text": "Підлогові системи з жорсткою основою, розраховані на щоденну експлуатацію та надійний результат укладання в різних інтер’єрах."
+      },
+      "skirting": {
+        "title": "SPC-плінтуси",
+        "text": "Рішення для акуратного оформлення примикання стіни до підлоги. Гнучкі краї наших плінтусів поліпшують прилягання до нерівних поверхонь."
+      },
+      "wallPanels": {
+        "title": "Стінові SPC-панелі",
+        "text": "Системи стінових панелей для інтер’єру зі швидким монтажем, стійкістю до ударів і стабільним декоративним результатом."
+      }
+    },
+    "whyKermit": {
+      "title": "Чому Kermit Floor",
+      "manufacturer": {
+        "title": "Промислові виробничі потужності",
+        "text": "8 млн м² SPC-підлоги та стінових панелей на рік. Характеристики продукції й умови постачання узгоджуються для вашого замовлення."
+      },
+      "design": {
+        "title": "Контроль дизайну",
+        "text": "Власне виготовлення пресформ забезпечує контроль деталей і вдосконалення продукції."
+      },
+      "system": {
+        "title": "Системний підхід",
+        "text": "Підлога, плінтуси та стінові панелі створені для цілісного оздоблення."
+      }
+    },
+    "footprint": {
+      "title": "Kermit працює в чотирьох країнах",
+      "p1": "Kermit Floor працює в Туреччині, Молдові, Румунії та США. Головний офіс і основний завод розташовані в Чаїрові, провінція Коджаелі, Туреччина, а ще один завод — у Кишиневі, Молдова. Нижче наведено адреси заводів, магазину в Румунії та спосіб звернення щодо постачання до США.",
+      "ctaTitle": "Зацікавлені у співпраці?",
+      "ctaText": "Ми працюємо з дистриб’юторами й дилерами та постачаємо продукцію для проєктів. Зверніться до відділу продажів щодо документації, зразків та комерційних умов.",
+      "ctaButton1": "Зв’язатися з відділом продажів",
+      "ctaButton2": "Переглянути матеріали",
+      "imageAlt": "Будівля заводу із сонячними панелями на даху",
+      "locations": {
+        "turkey": {
+          "title": "Туреччина · Головний офіс і завод",
+          "address": "Kermit Plastik Sanayi ve Ticaret A.Ş. · Cumhuriyet Mh. Cihan Sk. No:4, Çayırova, Kocaeli"
+        },
+        "moldova": {
+          "title": "Молдова · Завод у Кишиневі",
+          "address": "Muncești 799, Chișinău, Moldova"
+        },
+        "romania": {
+          "title": "Румунія · Магазин у Бухаресті",
+          "address": "DMS Innovative Solution SRL · Bucharest, Romania"
+        },
+        "usa": {
+          "title": "США · Діяльність",
+          "address": "З питань постачання до США зверніться до відділу продажів, щоб уточнити наявність продукції, маршрут постачання та комерційні умови."
+        }
+      },
+      "originNote": "Повідомте нашій команді країну призначення й коди виробів, щоб комерційна пропозиція містила підтверджені умови постачання вашого замовлення."
+    },
+    "sustainability": {
+      "title": "Сталий розвиток і відповідальність",
+      "p1": "Наші пріоритети — тривалий строк служби, практичний монтаж і відповідальне виробництво. Частка відновлюваної енергії у виробництві зростає, а ми постійно інвестуємо в ефективні процеси, що зменшують відходи та вплив на довкілля. Ми дотримуємося етичних принципів ведення бізнесу: чесного партнерства, прозорої роботи та стабільних стандартів якості, щоб замовники могли впевнено обирати продукцію Kermit Floor для своїх проєктів.",
+      "imageAlt": "Руки тримають зелений паросток"
+    },
+    "finalCta": {
+      "title": "Плануйте наступне замовлення SPC-підлоги з Kermit.",
+      "ctaPrimary": "Запитати оптову пропозицію",
+      "ctaSecondary": "Переглянути каталоги"
+    },
+    "supply": {
+      "title": "Виробництво та оптові постачання Kermit Floor",
+      "moq": {
+        "label": "Мінімальне оптове замовлення",
+        "value": "1 контейнер",
+        "detail": "Оптові замовлення SPC-підлоги"
+      },
+      "leadTime": {
+        "label": "Стандартний строк постачання підлоги",
+        "value": "4 тижні",
+        "detail": "Графік замовлення підтверджується в пропозиції"
+      },
+      "branding": {
+        "label": "Варіанти брендування",
+        "value": "OEM і власна торгова марка",
+        "detail": "Виріб, пакування та макети узгоджуємо з вами"
+      },
+      "note": "У пропозиції підтверджуються обрана специфікація, пакування, обсяг брендування та графік виконання замовлення. Запитайте дату доставки до місця призначення й розрахунок завантаження для обраних виробів.",
+      "capacity": {
+        "label": "Річна виробнича потужність",
+        "value": "8 млн м²",
+        "detail": "SPC-підлога та стінові панелі разом"
+      },
+      "countries": {
+        "label": "Географія діяльності",
+        "value": "4 країни",
+        "detail": "Туреччина · Молдова · Румунія · США"
+      },
+      "headquarters": {
+        "label": "Головний офіс і основний завод",
+        "value": "Çayırova, Kocaeli",
+        "detail": "Kermit Plastik Sanayi ve Ticaret A.Ş., Туреччина"
+      }
+    },
+    "documentation": {
+      "title": "Документи для вашої специфікації",
+      "description": "Почніть з актуальних каталогів підлоги, плінтусів і стінових панелей. Для проєкту або оптового замовлення надішліть вимоги до експлуатаційних характеристик і запитайте документи на обраний виріб.",
+      "types": {
+        "catalogues": "Каталоги продукції",
+        "instructions": "Інструкції з монтажу",
+        "projectEvidence": "Проєктна документація"
+      },
+      "scope": "Перевірте код виробу, сферу застосування та чинність кожного документа перед використанням у тендері або асортименті під власною маркою. Разом із пропозицією запитайте відповідні інструкції з укладання підлоги та гарантійні умови.",
+      "action": "Переглянути файли та запитати документи"
+    },
+    "oem": {
+      "title": "Ваш бренд і чітко визначений асортимент SPC",
+      "description": "Доступні OEM-постачання та виробництво під власною торговою маркою. Розкажіть, які вироби потрібні вашим клієнтам і як ви плануєте представляти асортимент під своїм брендом.",
+      "items": {
+        "specification": "Визначте колекцію, декор, конструкцію та заплановане використання.",
+        "branding": "Узгодьте в пропозиції вимоги до коробок, етикеток і макетів.",
+        "schedule": "Підтвердьте зразки, документи, перше замовлення та графік доставки."
+      },
+      "action": "Обговорити замовлення під власною маркою"
+    },
+    "questions": {
+      "title": "Запитання перед першим замовленням",
+      "factory": {
+        "question": "Чи є Kermit Floor виробником SPC у Туреччині?",
+        "answer": "Так. Kermit Floor виробляє SPC-підлогу, стінові панелі та плінтуси. Головний офіс і основний завод розташовані в Чаїрові, Коджаелі, Туреччина. Ми також маємо завод у Кишиневі, Молдова. Попросіть нашу команду підтвердити країну виробництва й умови постачання продукції у вашому замовленні."
+      },
+      "moq": {
+        "question": "Яке мінімальне оптове замовлення SPC-підлоги?",
+        "answer": "Мінімальне замовлення — один контейнер. Кількість квадратних метрів залежить від обраного виробу, пакування та схеми завантаження. Запитайте розрахунок для вашої специфікації."
+      },
+      "leadTime": {
+        "question": "Який стандартний строк виконання оптового замовлення SPC-підлоги?",
+        "answer": "Наш стандартний строк виконання оптового замовлення SPC-підлоги — чотири тижні. Графік замовлення, обов’язки сторін щодо доставки та очікувані строки для вашого місця призначення підтверджуються в комерційній пропозиції."
+      },
+      "oem": {
+        "question": "Чи може Kermit постачати SPC-підлогу під нашим брендом?",
+        "answer": "Так. Доступні OEM-постачання та виробництво під власною торговою маркою. Додайте вимоги до продукції, брендування й документації, щоб письмово узгодити обсяг робіт."
+      },
+      "enquiry": {
+        "question": "Що слід додати до запиту на зразки або комерційну пропозицію?",
+        "answer": "Надішліть відомості про компанію, місце призначення, коди виробів або декорів, технічні вимоги, кількість, заплановане використання, потребу в зразках і бажану дату доставки. Додайте вимоги до власної торгової марки або проєктної документації."
+      },
+      "capacity": {
+        "question": "Яка річна виробнича потужність Kermit Floor?",
+        "answer": "Сукупна річна виробнича потужність Kermit Floor для SPC-підлоги та стінових панелей становить 8 млн м². Кількість, асортимент і графік конкретного замовлення підтверджуються в комерційній пропозиції."
+      },
+      "countries": {
+        "question": "У яких країнах працює Kermit Floor?",
+        "answer": "Kermit Floor працює в Туреччині, Молдові, Румунії та США. Виробничі майданчики розташовані в Туреччині й Молдові, а магазин — у Бухаресті, Румунія. З питань постачання до США зверніться до нашої команди."
+      }
+    },
+    "manufacturing": {
+      "title": "Виробництво SPC для оптового та проєктного постачання",
+      "flooring": {
+        "title": "SPC-підлога для оптових та OEM-покупців",
+        "text": "Дистриб’ютори, які порівнюють виробників SPC-підлоги в Туреччині, можуть оцінити колекції, зразки та документи Kermit до замовлення. Ми пропонуємо оптову SPC-підлогу та OEM-постачання під власною маркою з мінімальним замовленням один контейнер і стандартним строком виконання чотири тижні. Фактичний графік підтверджується у вашій пропозиції.",
+        "action": "Перелік перевірок для покупця"
+      },
+      "wallPanels": {
+        "title": "Стінові SPC-панелі для інтер’єрних проєктів",
+        "text": "Проєктні команди, які порівнюють виробників стінових SPC-панелей у Туреччині, можуть розглянути інтер’єрні панелі Kermit разом із нашою підлогою та плінтусами. Надайте код панелі, оздоблення, розміри, кількість і заплановане використання, щоб наша команда підтвердила документацію, зразки, умови постачання та країну виробництва для замовлення.",
+        "action": "Переглянути стінові SPC-панелі"
+      }
+    }
+  },
+  "ContactPage": {
+    "seo": {
+      "title": "Kermit Floor | Зв’яжіться з нами!",
+      "description": "Звертайтеся до Kermit Floor з питань продажу, технічної підтримки та партнерства. Ми — провідний виробник SPC-підлоги, плінтусів і стінових панелей."
+    },
+    "hero": {
+      "title": "Зв’яжіться з нами",
+      "subtitle": "Зверніться до нашої команди з питань продажу, підтримки чи партнерства. Ми готові допомогти."
+    },
+    "locations": {
+      "title": "Наші представництва",
+      "turkeyTitle": "ТУРЕЧЧИНА — ЗАВОД І ГОЛОВНИЙ ОФІС",
+      "turkeyAddress": "Cumhuriyet Mh. Cihan Sk. No:4\nÇAYIROVA / KOCAELİ - TÜRKİYE",
+      "turkeyPhone": "+90 262 658 97 29",
+      "turkeyFax": "+90 262 658 11 29",
+      "turkeyEmail": "info@kermit.com.tr",
+      "moldovaTitle": "МОЛДОВА — ЗАВОД",
+      "moldovaAddress": "Muncești 799, Chișinău/MOLDOVA",
+      "moldovaPhone": "+373 (22) 85 42 29 / +373 (22) 85 42 30",
+      "moldovaGsm": "GSM: +373 79 157375",
+      "moldovaFax": "+373 (22) 52 40 02",
+      "moldovaEmail": "info@serkanplast.com",
+      "romaniaTitle": "РУМУНІЯ — МАГАЗИН",
+      "romaniaCompany": "DMS INNOVATIVE SOLUTION SRL",
+      "romaniaAddress": "Bucuresti - Romania",
+      "romaniaPhone": "+40 738 754 074 / +40 722 547 258",
+      "romaniaEmail": "info@dmsinnovative.ro",
+      "germanyTitle": "НІМЕЧЧИНА — ПРЕДСТАВНИК",
+      "germanyCompany": "IQBody GmbH",
+      "germanyRepresentative": "Представник: Suat Altun",
+      "germanyAddress": "Ströherstraße 14D\n36088 Hünfeld, Germany",
+      "germanyPhone": "+49 1714071718"
+    },
+    "form": {
+      "title": "Надіслати повідомлення",
+      "description": "Заповніть форму нижче, і ми відповімо вам якнайшвидше.",
+      "nameLabel": "Ім’я та прізвище",
+      "namePlaceholder": "Іван Петренко",
+      "emailLabel": "Електронна адреса",
+      "emailPlaceholder": "you@example.com",
+      "phoneLabel": "Номер телефону (необов’язково)",
+      "phonePlaceholder": "+380 (67) 123-45-67",
+      "inquiryTypeLabel": "Тема звернення",
+      "inquiryTypePlaceholder": "Оберіть тему звернення",
+      "inquiryTypeSales": "Продаж і ціни",
+      "inquiryTypeSupport": "Технічна підтримка",
+      "inquiryTypePartnership": "Партнерство та дистрибуція",
+      "inquiryTypeGeneral": "Загальне запитання",
+      "messageLabel": "Ваше повідомлення",
+      "messagePlaceholder": "Опишіть ваше звернення докладніше…",
+      "submitButton": "Надіслати повідомлення",
+      "submittingButton": "Надсилання…",
+      "successTitle": "Повідомлення надіслано!",
+      "successDescription": "Дякуємо, {name}! Ми отримали ваше повідомлення й незабаром зв’яжемося з вами.",
+      "errorTitle": "Сталася помилка",
+      "errorMessage": "Сталася неочікувана помилка. Спробуйте ще раз."
+    }
+  },
+  "PanelNames": {
+    "205": "Buttermilk Oak",
+    "215": "Sahara Oak",
+    "227": "Weathered Greige Oak",
+    "601": "Concrete Grey",
+    "602": "Microcement Silver",
+    "603": "Concrete Light Grey",
+    "604": "Anthracite Concrete",
+    "605": "Bardiglio Grey",
+    "606": "Marble Anthracite",
+    "607": "Travertine White Vein",
+    "608": "Travertine Grey",
+    "609": "Calacatta Bianco",
+    "610": "Marble Black",
+    "611": "Statuario Bianco",
+    "612": "Calacatta Gold",
+    "613": "Fior di Bosco (Olive)",
+    "614": "Ceppo di Gre Beige",
+    "616": "Tundra Grey",
+    "617": "Bianco Lasa",
+    "618": "Carrara White",
+    "619": "Ceppo di Gre White",
+    "620": "Crema Marfil Beige",
+    "742": "Glacier Oak"
+  },
+  "3DModelAPanelNames": {
+    "3D-800": "Sage Grey",
+    "3D-801": "Ash Grey",
+    "3D-802": "Fumed Oak",
+    "3D-803": "Charcoal Oak",
+    "3D-205": "Buttermilk Oak",
+    "3D-804": "Light Grey Oak",
+    "3D-805": "Smoked Oak",
+    "3D-742": "Glacier Oak"
+  },
+  "3DModelBPanelNames": {
+    "3D-617": "Bianco Lasa",
+    "3D-618": "Carrara White",
+    "3D-605": "Bardiglio Grey",
+    "3D-610": "Marble Black",
+    "3D-608": "Travertine Grey",
+    "3D-607": "Travertine White Vein",
+    "3D-612": "Calacatta Gold"
+  },
+  "SpcParquetNaturalCollectionPanelNames": {
+    "N-206": "Ivory Mist Oak",
+    "N-207": "Natural Beige Oak",
+    "N-208": "Sand Dune Oak",
+    "N-209": "Light Grey Oak",
+    "N-211": "Cognac Oak",
+    "N-212": "Rustic Greige Oak",
+    "N-215": "Sahara Oak",
+    "N-217": "Silver Mist Oak",
+    "N-220": "Dark Walnut Oak",
+    "N-221": "Weathered Grey Oak",
+    "N-222": "Dark Grey Oak",
+    "N-223": "Ice Grey Oak",
+    "N-219": "Ash Grey Oak (Dark)",
+    "N-225": "Linen Oak",
+    "N-227": "Weathered Greige Oak",
+    "N-228": "Nordic Frost Oak",
+    "N-229": "Dark Taupe Oak",
+    "N-230": "White Chocolate Walnut",
+    "N-231": "Smoked Greige Oak",
+    "N-232": "Arctic Driftwood Oak",
+    "N-233": "Natural Honey Oak"
+  },
+  "SpcParquetStoneCollectionPanelNames": {
+    "N-601": "Concrete Grey",
+    "N-602": "Microcement Silver",
+    "N-603": "Concrete Light Grey",
+    "N-604": "Anthracite Concrete",
+    "N-605": "Bardiglio Grey",
+    "N-606": "Marble Anthracite",
+    "N-607": "Travertine White Vein",
+    "N-608": "Travertine Grey",
+    "N-609": "Calacatta Bianco",
+    "N-610": "Marble Black",
+    "N-611": "Statuario Bianco",
+    "N-612": "Calacatta Gold",
+    "N-613": "Fior di Bosco (Olive)",
+    "N-614": "Ceppo di Gre Beige",
+    "N-616": "Tundra Grey",
+    "N-617": "Bianco Lasa",
+    "N-618": "Carrara White",
+    "N-619": "Ceppo di Gre White",
+    "N-620": "Crema Marfil Beige"
+  },
+  "FullNaturalCollectionPanelNames": {
+    "N-201": "Bleached Oak",
+    "N-202": "Arctic Oak",
+    "N-203": "Sunlit Oak",
+    "N-204": "Light Natural Oak",
+    "N-205": "Buttermilk Oak",
+    "N-210": "Canyon Oak",
+    "N-213": "Light Beige Oak",
+    "N-214": "Dove Grey Oak",
+    "N-216": "Harvest Oak",
+    "N-218": "Chestnut Oak",
+    "N-226": "Honey Amber Oak",
+    "N-701": "Graphite Oak",
+    "N-702": "Taupe Oak",
+    "N-703": "Silver Driftwood",
+    "N-704": "Mist Grey Oak",
+    "N-705": "Burnt Oak",
+    "N-706": "Frosted Oak",
+    "N-707": "Urban Grey Oak",
+    "N-708": "Soft Greige Oak",
+    "N-709": "Charcoal Rustic Oak",
+    "N-710": "Nordic Ash Oak",
+    "N-711": "Golden Knot Oak",
+    "N-712": "Pebble Oak",
+    "N-713": "Blonde Natural Oak",
+    "N-714": "Whitewashed Drift Oak",
+    "N-715": "Cocoa Oak",
+    "N-716": "Cloud Grey Oak",
+    "N-717": "Wheat Oak",
+    "N-718": "Smoky Grey Oak",
+    "N-719": "Reclaimed Barnwood",
+    "N-720": "Chalk White Oak",
+    "N-721": "Vintage Grey Oak",
+    "N-722": "Golden Natural Oak",
+    "N-723": "Pearl Mist Oak",
+    "N-724": "Rustic Heritage Oak",
+    "N-725": "Weathered Pier Oak",
+    "N-726": "Beach House Oak",
+    "N-727": "Stone Grey Oak",
+    "N-728": "Mineral Grey Oak",
+    "N-729": "Drift Brown Oak",
+    "N-730": "Country Natural Oak",
+    "N-731": "Ivory Oak",
+    "N-732": "Midnight Oak",
+    "N-733": "Vanilla Oak",
+    "N-734": "Sable Oak",
+    "N-735": "Almond Oak",
+    "N-736": "Mocha Oak",
+    "N-737": "Desert Sand Oak",
+    "N-738": "Silver Frost Oak",
+    "N-739": "Polar Oak",
+    "N-740": "Coastal Drift Oak",
+    "N-741": "Coal Grey Oak",
+    "N-742": "Glacier Oak",
+    "N-743": "Greige Oak",
+    "N-744": "Biscuit Oak",
+    "N-745": "Cream Oak",
+    "N-746": "Tundra Oak",
+    "N-747": "Weathered Oak Brown",
+    "N-748": "Fog Oak",
+    "N-749": "Onyx Oak",
+    "N-750": "Basalt Oak",
+    "N-751": "Champagne Oak",
+    "N-752": "Slate Oak",
+    "N-753": "Winter Oak",
+    "N-754": "Mushroom Oak",
+    "N-755": "Dune Oak",
+    "N-756": "Alabaster Oak",
+    "N-757": "Seaside Oak",
+    "N-758": "Toasted Oak",
+    "N-759": "Washed Beige Oak",
+    "N-760": "Frost Grey Oak",
+    "N-761": "Moonstone Oak",
+    "N-762": "Scandi Natural Oak",
+    "N-763": "Umber Oak",
+    "N-764": "Nordic White Oak",
+    "N-765": "Golden Wheat Oak",
+    "N-766": "Limestone Oak",
+    "N-767": "Silver Oak",
+    "N-768": "Olive Brown Oak",
+    "N-769": "Rustic Barn Oak",
+    "N-770": "Patina Oak",
+    "N-771": "Ash Grey Barnwood",
+    "N-772": "Gunmetal Oak",
+    "N-773": "Industrial Barnwood",
+    "N-774": "Desert Drift Oak",
+    "N-775": "Concrete Grey Oak",
+    "N-776": "Sandy Drift Oak",
+    "N-777": "Faded Silver Oak",
+    "N-778": "Estate Greige Oak",
+    "N-779": "Classic Natural Oak",
+    "N-780": "Sawmill Oak",
+    "N-781": "Spiced Acacia",
+    "N-782": "Linen Beige Oak",
+    "N-783": "Straw Oak",
+    "N-784": "Meadow Oak",
+    "N-785": "Camel Oak",
+    "N-786": "Amber Oak",
+    "N-787": "Smoked Taupe Oak",
+    "N-788": "Stonewashed Oak",
+    "N-789": "Honey Gold Oak",
+    "N-790": "Warm Sand Oak",
+    "N-791": "Shadow Oak",
+    "N-792": "Drift Beige Oak",
+    "N-793": "White Patina Oak",
+    "N-794": "Misty Grey Oak",
+    "N-795": "Shell Beige Oak",
+    "N-796": "Caramel Oak",
+    "N-797": "Steel Grey Oak",
+    "N-798": "Stone Beige Oak",
+    "N-799": "Espresso Oak"
+  },
+  "SkirtingCollectionNames": {
+    "alpha-140-mm": "Alpha 140mm",
+    "berlin-100-mm": "Berlin 100mm",
+    "elite-100-mm": "Elite 100mm",
+    "moderna-100-mm": "Moderna 100mm",
+    "optima-60-mm": "Optima 60mm",
+    "optima-90-mm": "Optima 90mm",
+    "solid-80-mm": "Solid 80mm",
+    "x-line-100-mm": "X-Line 100mm"
+  },
+  "SkirtingPanelNames": {
+    "1004031": "1004031",
+    "1005031": "1005031",
+    "1006031": "1006031",
+    "1009031": "1009031",
+    "1010031": "1010031",
+    "1012031": "1012031",
+    "1013031": "1013031",
+    "1015031": "1015031",
+    "1104031": "1104031",
+    "1105031": "1105031",
+    "1106031": "1106031",
+    "1109031": "1109031",
+    "1110031": "1110031",
+    "1112031": "1112031",
+    "1113031": "1113031",
+    "1115031": "1115031",
+    "1404031": "1404031",
+    "1405031": "1405031",
+    "1406031": "1406031",
+    "1409031": "1409031",
+    "1410031": "1410031",
+    "1412031": "1412031",
+    "1413031": "1413031",
+    "1415031": "1415031",
+    "E1013031": "E1013031",
+    "E1004031": "E1004031",
+    "E1005031": "E1005031",
+    "E1006031": "E1006031",
+    "E1009031": "E1009031",
+    "E1010031": "E1010031",
+    "E1012031": "E1012031",
+    "E1015031": "E1015031",
+    "0604031": "0604031",
+    "0605031": "0605031",
+    "0606031": "0606031",
+    "0609031": "0609031",
+    "0610031": "0610031",
+    "0612031": "0612031",
+    "0613031": "0613031",
+    "0615031": "0615031",
+    "0704031": "0704031",
+    "0705031": "0705031",
+    "0706031": "0706031",
+    "0709031": "0709031",
+    "0710031": "0710031",
+    "0712031": "0712031",
+    "0713031": "0713031",
+    "0715031": "0715031",
+    "0904031": "0904031",
+    "0905031": "0905031",
+    "0906031": "0906031",
+    "0909031": "0909031",
+    "0910031": "0910031",
+    "0912031": "0912031",
+    "0913031": "0913031",
+    "0915031": "0915031",
+    "X1004031": "X1004031",
+    "X1005031": "X1005031",
+    "X1006031": "X1006031",
+    "X1009031": "X1009031",
+    "X1010031": "X1010031",
+    "X1012031": "X1012031",
+    "X1013031": "X1013031",
+    "X1015031": "X1015031"
+  },
+  "SkirtingPages": {
+    "alpha-140-mm": {
+      "title": "Kermit Floor | SPC-плінтус Alpha 140 мм",
+      "description": "Відкрийте SPC-плінтус Alpha 140 мм. Високий, сучасний і міцний профіль для довершеного оздоблення."
+    },
+    "berlin-100-mm": {
+      "title": "Kermit Floor | SPC-плінтус Berlin 100 мм",
+      "description": "Ознайомтеся з SPC-плінтусом Berlin 100 мм: класичний дизайн і сучасна довговічність."
+    },
+    "elite-100-mm": {
+      "title": "Kermit Floor | SPC-плінтус Elite 100 мм",
+      "description": "SPC-плінтус Elite 100 мм — вишуканий профіль для будь-якого інтер’єру."
+    },
+    "moderna-100-mm": {
+      "title": "Kermit Floor | SPC-плінтус Moderna 100 мм",
+      "description": "Створіть лаконічний сучасний інтер’єр із SPC-плінтусом Moderna 100 мм."
+    },
+    "optima-60-mm": {
+      "title": "Kermit Floor | SPC-плінтус Optima 60 мм",
+      "description": "SPC-плінтус Optima 60 мм — універсальне мінімалістичне рішення для будь-якого приміщення."
+    },
+    "optima-90-mm": {
+      "title": "Kermit Floor | SPC-плінтус Optima 90 мм",
+      "description": "Знайдіть гармонійне поєднання висоти та стилю з SPC-плінтусом Optima 90 мм."
+    },
+    "solid-80-mm": {
+      "title": "Kermit Floor | SPC-плінтус Solid 80 мм",
+      "description": "SPC-плінтус Solid 80 мм забезпечує міцне оздоблення стін із дизайном поза часом."
+    },
+    "x-line-100-mm": {
+      "title": "Kermit Floor | SPC-плінтус X-Line 100 мм",
+      "description": "Створіть чіткі архітектурні лінії з SPC-плінтусом X-Line 100 мм."
+    }
+  },
+  "SpcSkirtingBoardsPage": {
+    "seo": {
+      "title": "Kermit Floor | SPC-плінтуси",
+      "description": "Перегляньте всі SPC-плінтуси Kermit Floor: 8 профілів заввишки від 60 до 140 мм, гнучкі краї та кольори, узгоджені з SPC-підлогою."
+    },
+    "hero": {
+      "title": "SPC-плінтуси"
+    },
+    "specLabels": {
+      "height": "Висота",
+      "width": "Ширина",
+      "length": "Довжина",
+      "material": "Матеріал"
+    },
+    "lines": {
+      "alpha-140-mm": {
+        "name": "Плінтус Alpha 140 мм"
+      },
+      "berlin-100-mm": {
+        "name": "Плінтус Berlin 100 мм"
+      },
+      "elite-100-mm": {
+        "name": "Плінтус Elite 100 мм"
+      },
+      "moderna-100-mm": {
+        "name": "Плінтус Moderna 100 мм"
+      },
+      "optima-60-mm": {
+        "name": "Плінтус Optima 60 мм"
+      },
+      "optima-90-mm": {
+        "name": "Плінтус Optima 90 мм"
+      },
+      "solid-80-mm": {
+        "name": "Плінтус Solid 80 мм"
+      },
+      "x-line-100-mm": {
+        "name": "Плінтус X-Line 100 мм"
+      }
+    },
+    "cta": {
+      "title": "Потрібні SPC-плінтуси для проєкту?",
+      "text": "Надішліть нам потрібну кількість і обрані декори — ми підготуємо пропозицію постачання для вашого проєкту.",
+      "button": "Запитати пропозицію"
+    }
+  },
+  "ProductDetails": {
+    "specThickness": "ТОВЩИНА",
+    "specDepth": "ГЛИБИНА",
+    "specWearLayer": "ЗНОСОСТІЙКИЙ ШАР",
+    "specDimensions": "РОЗМІРИ",
+    "specEdge": "КРАЙ",
+    "specInstallation": "МОНТАЖ",
+    "specUtilityClass": "КЛАС ЕКСПЛУАТАЦІЇ",
+    "specUsageArea": "СФЕРА ЗАСТОСУВАННЯ",
+    "specMaterial": "МАТЕРІАЛ",
+    "specEdgeValue": "Мікрофаска",
+    "specInstallationValue": "Приклеювання",
+    "specInstallationValueClick": "Замкова система",
+    "specUsageAreaValue": "Стіни та підлога всередині приміщень",
+    "specMaterialValue": "SPC (кам’яно-полімерний композит)",
+    "specIxpeUnderlay": "ПІДКЛАДКА IXPE",
+    "specLockingSystem": "ЗАМКОВА СИСТЕМА",
+    "specHeight": "ВИСОТА",
+    "specLength": "ДОВЖИНА",
+    "specEmbossed": "Тиснена поверхня",
+    "featureWaterProof": "Водостійкість",
+    "featureAntiBacterial": "Антибактеріальні властивості",
+    "featureQuickInstallation": "Швидкий монтаж",
+    "featureImpactResistant": "Ударостійкість",
+    "featureSoundAbsorbtion": "Звукопоглинання",
+    "featurePhthalateFree": "Без фталатів",
+    "featureFlexibleEdges": "Гнучкі краї",
+    "featureSmartInstallation": "Продуманий монтаж",
+    "featureMattSurface": "Матова поверхня",
+    "featureCableChannel": "Кабель-канал",
+    "specInteriorValue": "Усередині приміщень",
+    "specIxpeIncludedValue": "{thickness} у комплекті",
+    "specEdgeProfileValue": "Мікрофаска / V-подібна фаска"
+  },
+  "InquiryForm": {
+    "title": "Надіслати запит",
+    "description": "Цікавить панель {panelName}? Заповніть форму нижче.",
+    "nameLabel": "Ім’я та прізвище",
+    "namePlaceholder": "Іван Петренко",
+    "emailLabel": "Електронна адреса",
+    "emailPlaceholder": "you@example.com",
+    "messageLabel": "Ваше повідомлення",
+    "messagePlaceholder": "Хочу дізнатися більше про ціни та наявність…",
+    "submitButton": "Надіслати запит",
+    "submittingButton": "Надсилання…",
+    "successTitle": "Запит надіслано!",
+    "successDescription": "Дякуємо, {name}! Ваш запит щодо {panelName} отримано.",
+    "errorTitle": "Сталася помилка",
+    "errorMessage": "Сталася неочікувана помилка. Спробуйте ще раз."
+  },
+  "StarterPackDialog": {
+    "title": "Замовити добірку «{packName}»",
+    "emailAction": "Написати нам",
+    "whatsappAction": "WhatsApp",
+    "whatsappMessage": "Хочу отримати добірку «{packName}»."
+  },
+  "ShowcasePage": {
+    "applicationVideoTitle": "Відео з прикладом монтажу"
+  },
+  "Chatbox": {
+    "prompt": "Напишіть нам!"
+  },
+  "Footer": {
+    "tagline": "Високоякісні SPC-покриття для підлоги, стінові панелі та плінтуси для сучасних інтер’єрів.",
+    "productsTitle": "Продукція",
+    "productFlooring": "SPC-підлога",
+    "productSkirting": "SPC-плінтуси",
+    "productWallPanels": "Стінові SPC-панелі",
+    "product3dWallPanels": "Стінові 3D SPC-панелі",
+    "supportTitle": "Підтримка",
+    "supportCatalogue": "Завантажити каталог",
+    "supportInstallation": "Інструкція з монтажу",
+    "supportTechnical": "Технічні паспорти",
+    "supportBlog": "Блог",
+    "contactTitle": "Контакти",
+    "address": "Cumhuriyet Mh. Cihan Sk. No:4 ÇAYIROVA / KOCAELİ - TÜRKİYE",
+    "copyright": "© {year} Kermit Floor. Усі права захищено.",
+    "privacyPolicy": "Політика конфіденційності",
+    "termsOfService": "Умови користування",
+    "phone": "+90 262 658 97 29",
+    "email": "info@kermit.com.tr",
+    "cookieSettings": "Налаштування файлів cookie"
+  },
+  "PrivacyPolicyPage": {
+    "seo": {
+      "title": "Kermit Floor | Політика конфіденційності",
+      "description": "Дізнайтеся, як Kermit Floor збирає, використовує та захищає ваші персональні дані."
+    },
+    "title": "Політика конфіденційності",
+    "lastUpdated": "Останнє оновлення: 8 лютого 2026 року",
+    "section1": {
+      "title": "1. Хто ми (контролер персональних даних)",
+      "content": "<p>Цим вебсайтом («Сайт») керує Kermit Plastik Sanayi ve Ticaret Anonim Şirketi («Kermit Floor», «ми», «нас»).</p><ul><li><strong>Контролер персональних даних (KVKK):</strong> Kermit Plastik Sanayi ve Ticaret Anonim Şirketi</li><li><strong>Адреса:</strong> Cumhuriyet Mh. Cihan Sk. No:4 ÇAYIROVA / KOCAELİ - TÜRKİYE</li><li><strong>Контакт із питань конфіденційності:</strong> info@kermit.com.tr</li><li><strong>Телефон:</strong> +90 262 658 97 29</li></ul>"
+    },
+    "section2": {
+      "title": "2. Сфера застосування",
+      "content": "<p>Ця Політика конфіденційності пояснює, як ми збираємо, використовуємо, розкриваємо та захищаємо персональні дані, коли ви:</p><ul><li>відвідуєте Сайт,</li><li>зв’язуєтеся з нами через форми, електронну пошту, телефоном або через WhatsApp,</li><li>запитуєте каталоги чи технічні документи,</li><li>надсилаєте звернення або запити на комерційні пропозиції,</li><li>подаєте заявку на дистрибуцію чи партнерство,</li><li>взаємодієте із вбудованим вмістом (наприклад, Instagram) та</li><li>підписуєтеся на оновлення (якщо така можливість доступна).</li></ul>"
+    },
+    "section3": {
+      "title": "3. Персональні дані, які ми збираємо",
+      "content": "<p>Залежно від того, як ви користуєтеся Сайтом, ми можемо збирати:</p><h3>A. Дані, які ви надаєте</h3><ul><li><strong>Ідентифікаційні та контактні дані:</strong> ім’я, прізвище, компанія, посада, електронна адреса, телефон</li><li><strong>Зміст звернень:</strong> повідомлення, продукція, що вас цікавить, відомості про проєкт, вкладення</li><li><strong>Комерційні відомості (B2B):</strong> адреса компанії, номер платника ПДВ або податковий номер, побажання щодо доставки (за потреби)</li></ul><h3>B. Дані, що збираються автоматично</h3><ul><li><strong>Пристрій і використання:</strong> IP-адреса, тип браузера, переглянуті сторінки, приблизне місцезнаходження (місто/країна), часові позначки, URL-адреси джерел переходу</li><li><strong>Файли cookie та подібні технології</strong> (див. розділ 8)</li></ul><h3>C. Дані від третіх осіб (в обмеженому обсязі)</h3><ul><li>Постачальники аналітики та вимірювань (узагальнена статистика використання)</li><li>Соціальні платформи (коли ви взаємодієте із вбудованим вмістом)</li></ul><p><strong>Примітка:</strong> Ми не збираємо навмисно особливі категорії персональних даних (чутливі дані). Будь ласка, не надсилайте чутливі дані через форми Сайту.</p>"
+    },
+    "section4": {
+      "title": "4. Цілі обробки",
+      "content": "<p>Ми обробляємо персональні дані з такими цілями:</p><ol><li>Відповіді на звернення та надання комерційних пропозицій і відомостей про продукцію</li><li>Управління відносинами з клієнтами (B2B-комунікація, початок співпраці з дистриб’юторами)</li><li>Надання запитаних матеріалів (каталогів, технічних паспортів, інструкцій з монтажу)</li><li>Робота й безпека Сайту та запобігання шахрайству</li><li>Удосконалення Сайту (швидкодія, зручність, аналітика)</li><li>Дотримання законодавства (ведення обліку, відповіді на законні запити)</li><li>Маркетингові повідомлення (лише за наявності дозволу чи згоди; див. розділ 7)</li></ol><p><em>Розкриття цих цілей є частиною обов’язків щодо прозорості за KVKK та GDPR.</em></p>"
+    },
+    "section5": {
+      "title": "5. Правові підстави (KVKK / GDPR)",
+      "content": "<p>Залежно від обставин ми спираємося на одну або кілька правових підстав:</p><p><strong>За KVKK (Закон № 6698):</strong></p><ul><li>Обробка необхідна для встановлення, реалізації або захисту права (наприклад, вирішення спорів чи розгляду претензій)</li><li>Обробка необхідна для виконання договору або здійснення переддоговірних заходів (наприклад, підготовки пропозиції на ваш запит)</li><li>Обробка необхідна для законних інтересів контролера персональних даних (наприклад, забезпечення безпеки Сайту), якщо це не порушує основоположних прав</li><li>Явна згода, коли вона потрібна (наприклад, для необов’язкових файлів cookie та певних маркетингових заходів)</li></ul><p><em>KVKK вимагає розкривати спосіб збирання та правову підставу.</em></p><p><strong>За GDPR (якщо застосовується):</strong></p><ul><li>Договір / переддоговірні заходи</li><li>Законні інтереси</li><li>Згода (наприклад, на необов’язкові файли cookie та прямий маркетинг, коли це потрібно)</li><li>Юридичний обов’язок</li></ul><p><em>(Перелік відомостей для забезпечення прозорості ґрунтується на статтях 13/14 GDPR.)</em></p>"
+    },
+    "section6": {
+      "title": "6. Кому ми передаємо дані (одержувачі / передавання)",
+      "content": "<p>Ми можемо передавати персональні дані:</p><ul><li>Постачальникам ІТ-послуг і хостингу (наприклад, хостинг, CDN, інфраструктура вебсайту)</li><li>Постачальникам аналітики (лише відповідно до налаштувань; бажано з маскуванням IP-адрес і згодою, коли вона потрібна)</li><li>Сервісам комунікації (постачальнику електронної пошти, CRM, засобам підтримки клієнтів)</li><li>Професійним консультантам (юристам, бухгалтерам), коли це необхідно</li><li>Органам влади / судам, коли цього вимагає закон</li></ul><p>Ми не продаємо персональні дані.</p><p><strong>Міжнародне передавання:</strong> Залежно від інфраструктури наших постачальників ваші дані можуть оброблятися в інших країнах. Коли це необхідно, ми застосовуємо належні гарантії (наприклад, договірний захист і заходи безпеки).</p>"
+    },
+    "section7": {
+      "title": "7. Маркетингові повідомлення",
+      "content": "<p>Якщо ми пропонуємо інформаційні розсилки або рекламні повідомлення:</p><ul><li>Ми надсилатимемо їх лише за вашою згодою або на іншій законній підставі, дозволеній застосовним законодавством.</li><li>Ви можете відмовитися будь-коли за посиланням для відписки або написавши на info@kermit.com.tr</li></ul>"
+    },
+    "section8": {
+      "title": "8. Файли cookie та подібні технології",
+      "content": "<p>Ми використовуємо файли cookie та подібні технології для роботи Сайту, а з вашого дозволу — для вимірювання використання й поліпшення швидкодії.</p><p><strong>Аналітика на основі згоди:</strong> Ми використовуємо Google Analytics 4 (GA4) лише після того, як ви явно погодитеся на аналітичні файли cookie в нашому банері. Якщо ви відхилите аналітичні файли cookie, GA4 не активується під час вашого відвідування.</p><p>Ви можете змінити свій вибір будь-коли, відкривши <strong>Налаштування файлів cookie</strong> внизу сторінки.</p><ul><li><strong>Необхідні файли cookie:</strong> потрібні для базових функцій і безпеки.</li><li><strong>Аналітичні файли cookie (GA4):</strong> вмикаються лише за наданої згоди.</li></ul><p><strong>Запис згоди:</strong> Ми зберігаємо ваш вибір у власному файлі cookie з назвою <code>kf_consent_v1</code>, щоб запам’ятати ваші налаштування.</p>"
+    },
+    "section9": {
+      "title": "9. Строк зберігання даних",
+      "content": "<p>Ми зберігаємо персональні дані лише стільки, скільки потрібно для зазначених вище цілей, а потім видаляємо або знеособлюємо їх, якщо триваліший строк не вимагається законом або не потрібен для встановлення чи реалізації законних прав (наприклад, вирішення спорів). <em>(Розкриття строків зберігання є вимогою прозорості GDPR і належною практикою за KVKK.)</em></p>"
+    },
+    "section10": {
+      "title": "10. Безпека",
+      "content": "<p>Ми застосовуємо розумні технічні та організаційні заходи для захисту персональних даних від несанкціонованого доступу, втрати, неправомірного використання, зміни чи розкриття. Однак жодна система не є на 100% захищеною.</p>"
+    },
+    "section11": {
+      "title": "11. Ваші права (ст. 11 KVKK / права за GDPR, якщо застосовуються)",
+      "content": "<p>За KVKK ви, зокрема, маєте право: дізнатися, чи обробляються ваші дані; запитати інформацію; дізнатися мету обробки та чи відповідає їй використання даних; знати третіх осіб, яким передаються дані; вимагати виправлення або видалення за відповідних умов; заперечувати проти певних результатів обробки.</p><p>За GDPR (якщо застосовується) ви можете мати права на доступ, виправлення, видалення, обмеження обробки, перенесення даних, заперечення та відкликання згоди.</p>"
+    },
+    "section12": {
+      "title": "12. Як реалізувати свої права",
+      "content": "<p>Щоб подати запит, зверніться до нас:</p><ul><li><strong>Електронна пошта:</strong> info@kermit.com.tr</li><li><strong>Поштова адреса:</strong> Cumhuriyet Mh. Cihan Sk. No:4 ÇAYIROVA / KOCAELİ - TÜRKİYE</li></ul><p>Надайте достатньо відомостей для підтвердження вашої особи та чітко опишіть запит.</p><p>Ми можемо попросити додаткову інформацію для підтвердження особи й опрацювання запиту відповідно до застосовного законодавства.</p>"
+    },
+    "section13": {
+      "title": "13. Конфіденційність дітей",
+      "content": "<p>Сайт не призначений для дітей. Ми свідомо не збираємо персональні дані дітей.</p>"
+    },
+    "section14": {
+      "title": "14. Зміни до цієї Політики конфіденційності",
+      "content": "<p>Ми можемо час від часу оновлювати цю Політику конфіденційності. Дата «Останнє оновлення» змінюватиметься відповідно. Істотні зміни будуть оприлюднені на Сайті.</p>"
+    }
+  },
+  "TermsOfServicePage": {
+    "seo": {
+      "title": "Kermit Floor | Умови користування",
+      "description": "Ознайомтеся з умовами користування вебсайтом Kermit Floor."
+    },
+    "title": "Умови користування вебсайтом",
+    "lastUpdated": "Останнє оновлення: 25 січня 2026 року",
+    "section1": {
+      "title": "1. Сторони та сфера застосування",
+      "content": "<p>Ці Умови користування вебсайтом («Умови») регулюють доступ до www.kermitfloor.com («Вебсайт») та його використання. Вебсайтом керує Kermit Plastik Sanayi ve Ticaret Anonim Şirketi («Kermit Floor», «Компанія»).</p><p>Вебсайт є інформаційною платформою з відомостями про продукцію, каталогами й технічними документами, а також каналами зв’язку та запитів на комерційні пропозиції. Вебсайт не передбачає оформлення онлайн-замовлень або придбання товарів через електронну торгівлю.</p>"
+    },
+    "section2": {
+      "title": "2. Прийняття умов",
+      "content": "<p>Отримуючи доступ до Вебсайту або користуючись ним, ви погоджуєтеся з цими Умовами. Якщо ви не погоджуєтеся, не користуйтеся Вебсайтом.</p>"
+    },
+    "section3": {
+      "title": "3. Визначення",
+      "content": "<ul><li><strong>Вміст:</strong> Усі тексти, зображення, відео, каталоги, технічні документи, креслення, торговельні марки й логотипи, дизайни та програмне забезпечення на Вебсайті.</li><li><strong>Користувач:</strong> Будь-яка особа, яка відвідує Вебсайт або надсилає звернення.</li></ul>"
+    },
+    "section4": {
+      "title": "4. Інформаційний вміст — не зобов’язальна пропозиція",
+      "content": "<p>Усі відомості про продукцію, характеристики, зображення та документи надаються лише для загального ознайомлення й не становлять зобов’язальної пропозиції. Ціни, строки виконання, наявність та остаточні характеристики підтверджуються лише письмовою пропозицією або підтвердженням Компанії.</p>"
+    },
+    "section5": {
+      "title": "5. Технічні документи та відповідальність за застосування",
+      "content": "<p>Технічні паспорти та інструкції з монтажу є загальними довідковими матеріалами. Умови проєкту можуть відрізнятися та впливати на результат. Рішення щодо застосування й придатності на об’єкті мають оцінювати кваліфіковані фахівці.</p>"
+    },
+    "section6": {
+      "title": "6. Інтелектуальна власність",
+      "content": "<p>Якщо прямо не зазначено інше, увесь Вміст належить Kermit Floor або використовується за ліцензією. Ви можете переглядати й завантажувати каталоги та документи лише для внутрішнього оцінювання та обговорення комерційних пропозицій. Будь-яке відтворення, повторне поширення, комерційне використання чи несанкціоноване використання торговельних марок і логотипів без попередньої письмової згоди заборонено.</p>"
+    },
+    "section7": {
+      "title": "7. Надіслані матеріали (форми, повідомлення, файли)",
+      "content": "<p>Надсилаючи звернення, повідомлення або файли, ви підтверджуєте, що маєте право ними ділитися. Компанія може використовувати їх лише для розгляду вашого запиту та відповіді на нього. Зобов’язання щодо конфіденційності не виникає, якщо його окремо не погоджено письмово (наприклад, в угоді NDA).</p>"
+    },
+    "section8": {
+      "title": "8. Заборонене використання",
+      "content": "<p>Ви погоджуєтеся не:</p><ul><li>порушувати безпеку чи роботу Вебсайту, впроваджувати шкідливе програмне забезпечення або намагатися отримати несанкціонований доступ,</li><li>здійснювати автоматизоване збирання даних, масове завантаження чи вилучення вмісту,</li><li>копіювати або поширювати Вміст без дозволу,</li><li>використовувати Вебсайт протиправно або порушувати права третіх осіб.</li></ul>"
+    },
+    "section9": {
+      "title": "9. Сторонні посилання та вбудований вміст",
+      "content": "<p>Вебсайт може містити посилання на сторонні ресурси або вбудований вміст. Компанія не відповідає за вміст чи практики третіх осіб.</p>"
+    },
+    "section10": {
+      "title": "10. Доступність і зміни",
+      "content": "<p>Компанія може змінювати Вебсайт у будь-який час і тимчасово призупиняти доступ для технічного обслуговування або з операційних причин.</p>"
+    },
+    "section11": {
+      "title": "11. Обмеження відповідальності",
+      "content": "<p>У максимально дозволеному законом обсязі Вебсайт надається «як є». Компанія не відповідає за непрямі або похідні збитки, втрату прибутку чи даних, що виникли внаслідок використання Вебсайту або неможливості ним скористатися.</p>"
+    },
+    "section12": {
+      "title": "12. Конфіденційність",
+      "content": "<p>Обробку персональних даних регулює Політика конфіденційності / повідомлення за KVKK. Повідомлення за KVKK має містити основні відомості для забезпечення прозорості (особа контролера, цілі, передавання, спосіб збирання та правова підстава, права).</p>"
+    },
+    "section13": {
+      "title": "13. Застосовне право та юрисдикція",
+      "content": "<p>Ці Умови регулюються законодавством Турецької Республіки. Компетентними є суди та органи примусового виконання Чаїрови.</p>"
+    },
+    "section14": {
+      "title": "14. Контакти",
+      "content": "<ul><li>Kermit Plastik Sanayi ve Ticaret Anonim Şirketi</li><li>Cumhuriyet Mh. Cihan Sk. No:4 ÇAYIROVA / KOCAELİ - TÜRKİYE</li><li>info@kermit.com.tr</li></ul>"
+    }
+  },
+  "ConsentBanner": {
+    "title": "Ваші налаштування конфіденційності",
+    "description": "Ми використовуємо аналітичні файли cookie (Google Analytics 4), щоб розуміти, як відвідувачі користуються сайтом, і поліпшувати його роботу. Ви можете дозволити або відхилити аналітичні файли cookie.",
+    "accept": "Дозволити аналітику",
+    "reject": "Відхилити аналітику",
+    "manage": "Керувати налаштуваннями",
+    "privacyLink": "Політика конфіденційності",
+    "preferencesTitle": "Налаштування файлів cookie",
+    "preferencesDescription": "Керуйте дозволом на аналітичні файли cookie нижче. Необхідні файли cookie залишаються активними для базової роботи сайту.",
+    "analyticsTitle": "Аналітичні файли cookie (Google Analytics 4)",
+    "analyticsDescription": "Використовуються для вимірювання відвідуваності та поліпшення роботи сайту. Вмикаються лише за вашою згодою.",
+    "statusAccepted": "Поточний стан: аналітику ввімкнено",
+    "statusRejected": "Поточний стан: аналітику вимкнено",
+    "statusUnset": "Поточний стан: вибір ще не збережено"
+  },
+  "SpcFlooringEleganceCollectionPage": {
+    "seo": {
+      "title": "Kermit Floor | SPC-підлога колекції Elegance",
+      "description": "Відкрийте колекцію Elegance зі швидким відвантаженням і вишуканими декорами SPC-підлоги для сучасних інтер’єрів."
+    }
+  },
+  "SpcFlooringSkyCollectionPage": {
+    "seo": {
+      "title": "Kermit Floor | SPC-підлога колекції Sky",
+      "description": "Перегляньте колекцію Sky зі швидким відвантаженням і універсальними декорами SPC-підлоги для житлових та комерційних проєктів."
+    }
+  },
+  "SpcFlooringMosaicCollectionPage": {
+    "seo": {
+      "title": "Kermit Floor | SPC-підлога колекції Mosaic",
+      "description": "Перегляньте колекцію Mosaic зі швидким відвантаженням, візерунчастими дизайнами SPC-підлоги та декорами каменю."
+    }
+  },
+  "SpcFlooringEliteCollectionPage": {
+    "seo": {
+      "title": "Kermit Floor | SPC-підлога колекції Elite",
+      "description": "Ознайомтеся з колекцією Elite зі швидким відвантаженням: преміальні кольори SPC-підлоги для інтер’єрних проєктів із високими вимогами."
+    }
+  },
+  "SpcFlooringTravertineCollectionPage": {
+    "seo": {
+      "title": "Kermit Floor | SPC-підлога колекції Travertine",
+      "description": "Перегляньте колекцію Travertine зі швидким відвантаженням: SPC-підлога з декором травертину для елегантних інтер’єрів."
+    }
+  },
+  "SpcFlooringEleganceCollectionPanelNames": {
+    "P-301": "Parchment Oak",
+    "P-302": "Rustic Beige Oak",
+    "P-304": "Oatmeal Oak",
+    "P-305": "Wheatfield Oak",
+    "P-306": "Flaxen Oak",
+    "P-307": "Natural Linen Oak",
+    "P-308": "Toasted Honey Oak",
+    "P-309": "Tobacco Oak",
+    "P-310": "Burnished Oak",
+    "P-311": "Pewter Oak"
+  },
+  "SpcFlooringSkyCollectionPanelNames": {
+    "P-101": "Pale Blonde Oak",
+    "P-102": "Honey Straw Oak",
+    "P-103": "Oyster Beige Oak",
+    "P-104": "Warm Linen Oak",
+    "P-105": "Amber Wheat Oak",
+    "P-106": "Heritage Taupe Oak",
+    "P-107": "Nutmeg Oak",
+    "P-108": "Golden Malt Oak",
+    "P-109": "Sienna Oak",
+    "P-110": "Smoked Ember Oak",
+    "P-111": "Mineral Greige Oak",
+    "P-112": "Silver Taupe Oak"
+  },
+  "SpcFlooringMosaicCollectionPanelNames": {
+    "P-501": "Mosaic Greige",
+    "P-502": "Mosaic Taupe",
+    "P-503": "Mosaic Graphite",
+    "P-504": "Mosaic Pearl",
+    "P-505": "Mosaic Ivory",
+    "P-506": "Mosaic Beige",
+    "P-507": "Mosaic Silver"
+  },
+  "SpcFlooringEliteCollectionPanelNames": {
+    "P-201": "Bleached Oak",
+    "P-202": "Arctic Oak",
+    "P-203": "Sunlit Oak",
+    "P-204": "Light Natural Oak",
+    "P-205": "Buttermilk Oak",
+    "P-206": "Ivory Mist Oak",
+    "P-207": "Natural Beige Oak",
+    "P-208": "Sand Dune Oak",
+    "P-209": "Light Grey Oak",
+    "P-210": "Canyon Oak",
+    "P-211": "Cognac Oak",
+    "P-212": "Rustic Greige Oak",
+    "P-213": "Light Beige Oak",
+    "P-214": "Dove Grey Oak",
+    "P-215": "Sahara Oak",
+    "P-216": "Harvest Oak",
+    "P-217": "Silver Mist Oak",
+    "P-218": "Chestnut Oak",
+    "P-219": "Ash Grey Oak (Dark)",
+    "P-220": "Dark Walnut Oak"
+  },
+  "SpcFlooringTravertineCollectionPanelNames": {
+    "P-401": "Travertine Brown",
+    "P-402": "Travertine Dark Gray",
+    "P-403": "Travertine Turkish Gold",
+    "P-404": "Travertine Light Beige",
+    "P-405": "Travertine Turkish"
+  },
+  "ManufacturerGuides": {
+    "title": "Посібники для дистриб’юторів і покупців продукції під власною маркою",
+    "description": "Порівняйте постачальників, підготуйте запит на зразки та визначте умови першого OEM-замовлення за допомогою цих практичних посібників із закупівель.",
+    "read": "Читати посібник"
+  },
+  "Common": {
+    "close": "Закрити",
+    "openMenu": "Відкрити меню",
+    "mobileMenu": "Мобільне меню навігації",
+    "changeLanguage": "Змінити мову, поточна: {language}",
+    "previousSlide": "Попередній слайд",
+    "nextSlide": "Наступний слайд",
+    "carousel": "Карусель",
+    "slide": "Слайд",
+    "logoAlt": "Логотип Kermit Floor",
+    "wallTextureAlt": "Фон із фактурою стінової панелі",
+    "productColourAlt": "Зразок кольору: {name}",
+    "productEnlargedAlt": "Збільшене зображення виробу: {name}",
+    "applicationAlt": "Застосування в інтер’єрі: {name}",
+    "applicationEnlargedAlt": "Збільшене зображення в інтер’єрі: {name}",
+    "noProducts": "Наразі в цій колекції немає товарів.",
+    "viewInstagram": "Переглянути в Instagram",
+    "homeHeroAlt": "Сучасна кухня з елегантними стіновими SPC-панелями",
+    "factoryLocation": "Розташування заводу Kermit Floor"
+  },
+  "Blog": {
+    "seoTitle": "Посібники Kermit Floor | SPC-підлога, стінові панелі та плінтуси",
+    "seoDescription": "Посібники Kermit із вибору продукції, розрахунку кількості, монтажу, догляду та оптових закупівель, а також словник підлогових термінів і технічні документи.",
+    "title": "Посібники Kermit",
+    "subtitle": "Плануйте вибір продукції, монтаж і замовлення — крок за кроком.",
+    "heroImageAlt": "Ілюстрація планування проєкту з кресленнями та калькулятором",
+    "emptyTitle": "Статей у блозі ще немає.",
+    "emptyDescription": "Нові статті з’являтимуться тут після публікації.",
+    "tagsTitle": "Усі тематичні теги",
+    "allPosts": "Усі статті",
+    "viewAllPosts": "Переглянути всі статті",
+    "notFoundTitle": "Статтю не знайдено",
+    "notFoundDescription": "Не вдалося знайти запитану статтю блогу.",
+    "tagSeoTitle": "Тема блогу: {tag}",
+    "tagSeoDescription": "Перегляньте статті блогу за темою «{tag}».",
+    "tagTitle": "Тема: {tag}",
+    "tagSubtitle": "Статті за цією темою",
+    "tagEmptyTitle": "За цією темою статей не знайдено.",
+    "tagEmptyDescription": "Спробуйте іншу тему.",
+    "allTags": "Усі теми",
+    "videoFallback": "Ваш браузер не підтримує відтворення цього відео.",
+    "flexibleEdges": "ГНУЧКІ КРАЇ",
+    "browseTitle": "Почніть із наступного рішення",
+    "allTitle": "Усі статті",
+    "allDescription": "Від найновіших, за початковою датою публікації.",
+    "glossary": "Словник підлогових термінів",
+    "resources": "Технічні документи та інструкції",
+    "sections": {
+      "buying": {
+        "title": "Закупівлі у Kermit",
+        "description": "Оберіть постачальника, підготуйте запити на зразки й пропозиції та сплануйте перше оптове замовлення."
+      },
+      "choosing": {
+        "title": "Вибір підлоги",
+        "description": "Розберіться в матеріалах, порівняйте сфери застосування та дізнайтеся, що перевірити на зразку."
+      },
+      "installation": {
+        "title": "Монтаж і догляд",
+        "description": "Розрахуйте замовлення, підготуйте основу та сплануйте зазори, підігрів, прибирання й ремонт."
+      },
+      "specification": {
+        "title": "Специфікації та вартість проєкту",
+        "description": "Перевірте технічні підтвердження, складіть повну відомість оздоблення та порівняйте проєктний бюджет."
+      },
+      "walls-skirting": {
+        "title": "Плінтуси та стінові панелі",
+        "description": "Плануйте оздоблення периметра й стін за інструкціями для відповідних груп продукції."
+      }
+    }
+  },
+  "Glossary": {
+    "title": "Словник термінів SPC-підлоги, плінтусів і стінових панелей",
+    "description": "Шари підлоги, монтажні терміни, розрахунки й підтвердні документи: визначення з посиланнями на практичні посібники Kermit.",
+    "intro": "Ці терміни допоможуть прочитати специфікацію, порівняти пропозиції або спланувати монтаж. Застосовуйте числові обмеження до визначеного виробу Kermit і дотримуйтеся його актуальної інструкції.",
+    "jump": "Перейти до теми",
+    "guide": "Читати посібник",
+    "guides": "Усі посібники",
+    "resources": "Технічні документи"
+  }
+}

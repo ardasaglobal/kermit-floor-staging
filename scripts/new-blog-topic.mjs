@@ -154,6 +154,7 @@ const introductions = {
   bg: '## Въведение\n\nНапишете българската версия на статията тук.',
   sr: '## Увод\n\nОвде напишите српску верзију чланка.',
   ar: '## مقدمة\n\nاكتب النسخة العربية من المقال هنا.',
+  uk: '## Вступ\n\nНапишіть тут українську версію статті.',
 };
 await Promise.all(SUPPORTED_LOCALES.map((locale) => {
   const template = locale === 'en' ? englishTemplate : locale === 'tr' ? turkishTemplate

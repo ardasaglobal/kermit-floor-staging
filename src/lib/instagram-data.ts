@@ -9,6 +9,7 @@ export interface InstagramPost {
   caption_bg: string;
   caption_sr: string;
   caption_ar: string;
+  caption_uk: string;
   postUrl: string;
 }
 
