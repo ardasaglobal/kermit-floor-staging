@@ -1,7 +1,7 @@
 import {NextRequest, NextResponse} from 'next/server';
 import createMiddleware from 'next-intl/middleware';
 import {locales, pathnames, localePrefix, defaultLocale} from './navigation';
-import {isAppLocale} from './i18n/locales';
+import {isAppLocale, getLocaleUrlPrefix} from './i18n/locales';
 
 const intlMiddleware = createMiddleware({
   defaultLocale,
@@ -24,7 +24,9 @@ function isBlogRoute(pathname: string): boolean {
     return false;
   }
 
-  const offset = isAppLocale(segments[0]) ? 1 : 0;
+  const hasLocalePrefix = isAppLocale(segments[0])
+    || locales.some((locale) => getLocaleUrlPrefix(locale) === `/${segments[0]}`);
+  const offset = hasLocalePrefix ? 1 : 0;
   return segments[offset] === 'blog';
 }
 
@@ -36,6 +38,12 @@ export function middleware(request: NextRequest) {
     const newUrl = new URL(request.url);
     newUrl.host = newHost;
     return NextResponse.redirect(newUrl.toString(), 301);
+  }
+
+  if (/^\/uk(?:\/|$)/.test(request.nextUrl.pathname)) {
+    const url = request.nextUrl.clone();
+    url.pathname = url.pathname.replace(/^\/uk(?=\/|$)/, getLocaleUrlPrefix('uk'));
+    return NextResponse.redirect(url, 308);
   }
 
   // If stale cached pages still request /_next/image, bypass Cloudflare transforms
@@ -62,7 +70,7 @@ export function middleware(request: NextRequest) {
 export const config = {
   matcher: [
     '/((?!api|_next|_vercel|.*\\..*).*)',
-    '/(tr|en|bg|sr|ar)/:path*',
+    '/(tr|en|bg|sr|ar|uk|ukr)/:path*',
     '/_next/image',
   ],
 };

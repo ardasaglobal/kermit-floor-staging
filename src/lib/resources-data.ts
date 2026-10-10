@@ -43,12 +43,15 @@ export type Resource = {
   title_bg: string;
   title_sr: string;
   title_ar: string;
+  title_uk: string;
   summary_bg: string;
   summary_sr: string;
   summary_ar: string;
+  summary_uk: string;
   bullets_bg?: string[];
   bullets_sr?: string[];
   bullets_ar?: string[];
+  bullets_uk?: string[];
   version: string;
   updatedAt: string; // YYYY-MM-DD
   tags: string[];

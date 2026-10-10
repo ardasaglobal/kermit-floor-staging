@@ -3,5 +3,6 @@
   "tr": {"name": "Türkçe", "direction": "ltr"},
   "bg": {"name": "Български", "direction": "ltr"},
   "sr": {"name": "Српски", "direction": "ltr"},
-  "ar": {"name": "العربية", "direction": "rtl"}
+  "ar": {"name": "العربية", "direction": "rtl"},
+  "uk": {"name": "Українська", "direction": "ltr", "urlPrefix": "/ukr"}
 }

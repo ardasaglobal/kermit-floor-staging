@@ -147,7 +147,7 @@ To add a new active collection cleanly, update all of these layers:
 6. Add the collection key and family mapping in `src/lib/product-collections.ts`
 7. Add the collection entry in `src/lib/specs/data/collection-spec-registry.json`
 8. Point that entry to an existing or new spec profile in `src/lib/specs/data/*.json`
-9. Add the product-name entries in every supported dictionary, retaining original product names in BG/SR/AR
+9. Add the product-name entries in every supported dictionary, retaining original product names in BG/SR/AR/UK
 10. Add the collection to `scripts/generate-panel-manifests.mjs`
 11. Regenerate `public/data/*.json`
 12. Verify the route works in every locale and that the generated `public/data/<collection-key>.json` matches the manifest order

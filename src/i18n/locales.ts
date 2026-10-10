@@ -5,6 +5,12 @@ export const locales = Object.keys(localeDetails) as AppLocale[];
 export const defaultLocale: AppLocale = 'en';
 export {localeDetails};
 
+export function getLocaleUrlPrefix(locale: AppLocale): string {
+  if (locale === defaultLocale) return '';
+  const details = localeDetails[locale];
+  return 'urlPrefix' in details ? details.urlPrefix : `/${locale}`;
+}
+
 export function isAppLocale(locale: string): locale is AppLocale {
   return Object.hasOwn(localeDetails, locale);
 }

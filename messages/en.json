@@ -193,7 +193,8 @@
       "trPdf": "Download PDF · Turkish",
       "bgPdf": "Bulgarian PDF",
       "srPdf": "Serbian PDF",
-      "arPdf": "Arabic PDF"
+      "arPdf": "Arabic PDF",
+      "ukPdf": "Ukrainian PDF"
     },
     "documents": {
       "title": "Request documents for your project",
@@ -221,7 +222,8 @@
       "ro": "Romanian",
       "sr": "Serbian",
       "bg": "Bulgarian",
-      "ar": "Arabic"
+      "ar": "Arabic",
+      "uk": "Ukrainian"
     }
   },
   "AboutPage": {

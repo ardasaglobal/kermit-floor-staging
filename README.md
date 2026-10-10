@@ -1,7 +1,7 @@
 # Kermit Floor
 
 Next.js site for Kermit Floor (SPC floors, wall panels, skirting). Supports English, Turkish,
-Bulgarian, Serbian (Cyrillic), and Arabic via next-intl. Arabic uses a right-to-left layout.
+Bulgarian, Serbian (Cyrillic), Arabic, and Ukrainian via next-intl. Arabic uses a right-to-left layout.
 
 ## Development
 
@@ -13,14 +13,14 @@ npm run dev
 Runs at http://localhost:9002.
 
 The supported languages are defined in `src/i18n/locales.json`. English URLs have no prefix;
-the other languages use `/tr`, `/bg`, `/sr`, and `/ar`. Existing Turkish route slugs are
+the other languages use `/tr`, `/bg`, `/sr`, `/ar`, and `/ukr`. Existing Turkish route slugs are
 preserved; the additional languages use English route slugs under their locale prefix.
 Product/decor names, identifiers, contact details, and original PDF files stay unchanged.
 Download cards identify the actual document language independently of the website language.
 
 `npm run i18n:validate` checks translation coverage, interpolation parameters, product names,
 and article structure and links. After `npm run build`, run `npm run test:i18n` for route,
-language-switching, download, and Arabic mobile checks.
+language-switching, download, and Arabic/Ukrainian mobile checks.
 
 ## Deployment
 

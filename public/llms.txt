@@ -1,6 +1,6 @@
 # Kermit Floor
 
-> Kermit Floor is a manufacturer of SPC (stone polymer composite) flooring, wall panels, and skirting boards for residential and commercial interiors. Its combined annual production capacity for SPC flooring and wall panels is 8 million m². Kermit Floor operates in Türkiye, Moldova, Romania and the USA, with its headquarters and main factory in Çayırova, Kocaeli, Türkiye, an additional factory in Chișinău, Moldova and a store in Bucharest, Romania. Contact the sales team for U.S. supply enquiries. The site is bilingual: English (no prefix) and Turkish (/tr prefix).
+> Kermit Floor is a manufacturer of SPC (stone polymer composite) flooring, wall panels, and skirting boards for residential and commercial interiors. Its combined annual production capacity for SPC flooring and wall panels is 8 million m². Kermit Floor operates in Türkiye, Moldova, Romania and the USA, with its headquarters and main factory in Çayırova, Kocaeli, Türkiye, an additional factory in Chișinău, Moldova and a store in Bucharest, Romania. Contact the sales team for U.S. supply enquiries. The site supports English (no prefix), Turkish (/tr), Bulgarian (/bg), Serbian (/sr), Arabic (/ar) and Ukrainian (/ukr). Product and collection names remain unchanged in the additional languages.
 
 ## Manufacturing & Wholesale Supply
 
@@ -45,7 +45,7 @@
 
 ## Blog
 
-- [Blog](https://kermitfloor.com/blog): Practical guides on SPC flooring, wall panels, and skirting (English and Turkish)
+- [Blog](https://kermitfloor.com/blog): Practical guides on SPC flooring, wall panels, and skirting (English, Turkish, Bulgarian, Serbian, Arabic and Ukrainian)
 
 ## Company
 

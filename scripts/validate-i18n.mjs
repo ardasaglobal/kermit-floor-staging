@@ -3,10 +3,10 @@ import assert from 'node:assert/strict';
 import path from 'node:path';
 import matter from 'gray-matter';
 import MarkdownIt from 'markdown-it';
-import {SUPPORTED_LOCALES} from './lib/locales.mjs';
+import {SUPPORTED_LOCALES, LOCALE_DETAILS} from './lib/locales.mjs';
 
 const root = process.cwd();
-const newLocales = ['bg', 'sr', 'ar'];
+const newLocales = SUPPORTED_LOCALES.filter((locale) => !['en', 'tr'].includes(locale));
 const markdown = new MarkdownIt();
 
 function flatten(node, prefix = '', output = {}) {
@@ -126,7 +126,8 @@ for (const topic of topicDirs) {
     const actual = contentStructure(translated.content);
     assert.deepEqual(actual.counts, structure.counts, `${topic.name}:${locale}: Markdown structure`);
     assert.deepEqual(actual.images.map((image) => image.replace(`/${locale}-layer-diagram.svg`, '/en-layer-diagram.svg')), structure.images, `${topic.name}:${locale}: media parity`);
-    assert.deepEqual(actual.links.map((url) => url.replace(new RegExp(`^/${locale}(?=/|$)`), '') || '/'), structure.links.map(normalizeSourceLink), `${topic.name}:${locale}: localized links`);
+    const prefix = LOCALE_DETAILS[locale].urlPrefix ?? `/${locale}`;
+    assert.deepEqual(actual.links.map((url) => url.replace(new RegExp(`^${prefix}(?=/|$)`), '') || '/'), structure.links.map(normalizeSourceLink), `${topic.name}:${locale}: localized links`);
     assert.deepEqual(identifiers(translated.content), identifiers(original.content), `${topic.name}:${locale}: product and drawing identifiers`);
     assert.deepEqual(identifiers(translated.data.coverImageAlt ?? ''), identifiers(original.data.coverImageAlt ?? ''), `${topic.name}:${locale}: cover image identifiers`);
   }
