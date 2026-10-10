@@ -102,6 +102,8 @@ Review cadence (batch of 2026-08-14/16):
   October 24 indexing, November 7 descriptive exposure and November 21 combined structural
   review. Older isolated post-release search/aggregate attribution is INCONCLUSIVE; preserve
   historical verdicts and operational dates. Fresh Google analytics reads are currently unavailable.
+  Published at **19:31:58 UTC**; all **680** sitemap pages and **27** PDFs pass production
+  checks. First full post-release GSC/GA4 reporting day: **October 11**.
 
 Parallel changes: new work may ship while experiments are PENDING, but only after the
 interference check in `docs/seo/README.md` (Change interference): disjoint scope ships
@@ -127,7 +129,7 @@ cohort schedules for affected metrics; historical snapshots and verdicts remain 
 
 ## Open experiments
 
-### [2026-10-10] Ukrainian site language at /ukr — PR candidate
+### [2026-10-10] Ukrainian site language at /ukr — commit c9ebbee
 - **Change**: add Ukrainian across the current site, all 28 article topics, 33 glossary
   terms, resources, contact/legal pages and product-specification labels. Public URLs use
   `/ukr`; locale, HTML, hreflang and schema use `uk`. `/uk` redirects permanently to `/ukr`
@@ -151,10 +153,25 @@ cohort schedules for affected metrics; historical snapshots and verdicts remain 
 - **Local validation**: Cloudflare production build passed (684 static pages), including
   type checks and text/blog/i18n validation (885 keys, 19 resources, 28 Ukrainian articles).
   Existing 140 translated article records are unchanged. Consent checks passed (16/16);
-  localization checks cover all six languages, Ukrainian URL aliases, mobile layouts and glossary.
-  Independent adversarial review, publication and production verification follow in the PR.
-- **Verdict**: PENDING availability/indexing; no search-uplift conclusion.
-- **Action**: prepare the approved Ukrainian scope for PR review, retaining existing languages.
+  localization checks passed (13/13), covering all six languages, Ukrainian URL aliases,
+  mobile layouts and glossary. Independent Standards and Spec subagents both approved
+  `db9a1b3…10e4115` with no findings; GitHub Blog Guardrails passed before merge.
+- **Publication / production verification**: [PR #10](https://github.com/kermit-floor/kermit-floor-staging/pull/10)
+  merged to main; Cloudflare version `b392715e-fd79-45bf-87c1-1f229403c564` published at
+  **2026-10-10 19:31:58.790570 UTC**. All **680** sitemap destinations return HTTP 200
+  with correct language, direction and self-canonical metadata; **336** static/article
+  entries have reciprocal six-language alternates. All **567** old destinations and **140**
+  old article modification dates remain; **113** Ukrainian destinations are newly available.
+  All **27** original PDF URLs pass. [Production evidence](baselines/2026-10-10-ukrainian-production.json).
+  All **13** localization browser checks also pass on production, including Ukrainian
+  mobile layouts, language switching, glossary/schema parity and the query-preserving `/uk`
+  redirect. Homepage and glossary mobile screenshots were visually inspected.
+  Exclude October 10 as a partial day; first full GSC (Pacific) and GA4 (recorded
+  Europe/Istanbul) reporting day is **October 11**.
+- **Verdict**: availability/canonical coverage WORKED at ship-time verification;
+  indexing and search effects PENDING. No search-uplift conclusion.
+- **Action**: keep the verified Ukrainian release and retain the recorded review dates;
+  obtain authenticated data before judging indexing or acquisition effects.
 
 
 ### [2026-10-01] Bulgarian, Serbian and Arabic site translations — commit 9fb9c29
