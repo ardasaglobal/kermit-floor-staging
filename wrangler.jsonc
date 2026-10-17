@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
-  "account_id": "542a80d833f2cf2d70591dbf553ed0d2",
+  "account_id": "91bdb37d47afe3e4ed30103d59880dc5",
   "routes": [
     {"pattern": "kermitfloor.ro", "custom_domain": true},
     {"pattern": "www.kermitfloor.ro", "custom_domain": true}
